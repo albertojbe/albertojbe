@@ -1,2 +1,2 @@
-## Ainda à procura de um estágio em TI. 💀💀💀
+## Louco e sonhador. 
 ![Alberto GitHub stats](https://github-readme-stats.vercel.app/api?username=albertojbe&show_icons=true&theme=highcontrast)
