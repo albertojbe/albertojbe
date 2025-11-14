@@ -14,7 +14,7 @@ I am an Information Systems undergraduate student at IFAL (Federal Institute of 
 
 My greatest passion is computing, especially web application development and DevOps. I’ve been improving my skills in various programming languages and frameworks that complement each other in the development of modern systems, thanks to both my academic and professional experience.
 
-I am a fullstack developer with solid knowledge of back-end tools such as **Django, FastAPI, ExpressJS**, and **Laravel**, as well as front-end technologies like **Vanilla JavaScript, HTML, CSS, Bootstrap, TailwindCSS**, and **VueJS**.
+I am a fullstack developer with solid knowledge of back-end tools such as **Django, FastAPI, ExpressJS**, and **Laravel**, as well as front-end technologies like **Vanilla JavaScript, HTML, CSS, Bootstrap, TailwindCSS**, **InertiaJS**, and **VueJS**.
 
 ---
 
