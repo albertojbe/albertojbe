@@ -18,11 +18,11 @@ I am a fullstack developer with solid knowledge of back-end tools such as **Djan
 
 ---
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albertojbe/albertojbe/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albertojbe/albertojbe/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/albertojbe/albertojbe/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
